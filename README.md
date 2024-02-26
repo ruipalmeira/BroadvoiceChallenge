@@ -2,7 +2,7 @@
 
 ## Description 
 This repository will be used to store the "QA Analyst Project" section for the 
-Broadvoice "Quality Assurance Analyst" \challenge.
+Broadvoice "Quality Assurance Analyst" challenge.
 
 ## Contents
 1. This ReadMe.md file explaining the context of the repository
