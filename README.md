@@ -7,4 +7,4 @@ Broadvoice "Quality Assurance Analyst" challenge.
 ## Contents
 1. This ReadMe.md file explaining the context of the repository
 2. Requirements clarification, containing questions to points raised in the "Functional description" of the challenge.
-3. 5 test cases files to test against the functionality that is presented in the challenge. 
+3. 5 test cases to test against the functionality that is presented in the challenge. 
